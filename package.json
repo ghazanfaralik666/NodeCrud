@@ -1,7 +1,7 @@
 {
   "name": "crudapp",
-  "version": "1.0.0.0",
-  "description": "this appplication is a crud example of node js",
+  "version": "1.0.0",
+  "description": "this appplication is a crud example of nodejs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
